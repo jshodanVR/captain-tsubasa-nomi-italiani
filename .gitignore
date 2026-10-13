@@ -1,0 +1,12 @@
+/dist/
+/.test-work/
+/private/
+**/backup-originale/
+**/*-Backup/
+*.ttb
+*.dat
+*.exe
+*.zip
+*.tmp
+__pycache__/
+installer-test-error.txt

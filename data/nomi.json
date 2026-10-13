@@ -1,0 +1,325 @@
+{
+  "giocatori": [
+    {
+      "originale": "Tsubasa Ozora",
+      "italiano": "Oliver Hutton",
+      "breve": "Holly",
+      "varianti": [
+        "Tsubasa Oozora",
+        "Tsubasa Ōzora"
+      ]
+    },
+    {
+      "originale": "Genzo Wakabayashi",
+      "italiano": "Benjamin Price",
+      "breve": "Price",
+      "varianti": []
+    },
+    {
+      "originale": "Taro Misaki",
+      "italiano": "Tom Becker",
+      "breve": "Becker",
+      "varianti": []
+    },
+    {
+      "originale": "Ryo Ishizaki",
+      "italiano": "Bruce Harper",
+      "breve": "Harper",
+      "varianti": []
+    },
+    {
+      "originale": "Mamoru Izawa",
+      "italiano": "Paul Diamond",
+      "breve": "Diamond",
+      "varianti": []
+    },
+    {
+      "originale": "Hajime Taki",
+      "italiano": "Ted Carter",
+      "breve": "Carter",
+      "varianti": []
+    },
+    {
+      "originale": "Teppei Kisugi",
+      "italiano": "Johnny Mason",
+      "breve": "Mason",
+      "varianti": []
+    },
+    {
+      "originale": "Shingo Takasugi",
+      "italiano": "Bob Denver",
+      "breve": "Denver",
+      "varianti": []
+    },
+    {
+      "originale": "Hanji Urabe",
+      "italiano": "Jack Morris",
+      "breve": "Morris",
+      "varianti": []
+    },
+    {
+      "originale": "Takeshi Kishida",
+      "italiano": "Charlie Custer",
+      "breve": "Custer",
+      "varianti": []
+    },
+    {
+      "originale": "Yuzo Morisaki",
+      "italiano": "Alan Crocker",
+      "breve": "Crocker",
+      "varianti": []
+    },
+    {
+      "originale": "Koji Nishio",
+      "italiano": "Jill Taylor",
+      "breve": "Taylor",
+      "varianti": []
+    },
+    {
+      "originale": "Manabu Okawa",
+      "italiano": "Arthur Foster",
+      "breve": "Foster",
+      "varianti": []
+    },
+    {
+      "originale": "Kojiro Hyuga",
+      "italiano": "Mark Lenders",
+      "breve": "Lenders",
+      "varianti": []
+    },
+    {
+      "originale": "Takeshi Sawada",
+      "italiano": "Danny Mellow",
+      "breve": "Mellow",
+      "varianti": []
+    },
+    {
+      "originale": "Ken Wakashimazu",
+      "italiano": "Ed Warner",
+      "breve": "Warner",
+      "varianti": [
+        "Ken Wakashimatsu"
+      ]
+    },
+    {
+      "originale": "Kazuki Sorimachi",
+      "italiano": "Gazza",
+      "breve": "Gazza",
+      "varianti": []
+    },
+    {
+      "originale": "Minoru Honma",
+      "italiano": "Honma",
+      "breve": "Honma",
+      "varianti": [
+        "Akira Honma"
+      ]
+    },
+    {
+      "originale": "Shinji Sanada",
+      "italiano": "Sanada",
+      "breve": "Sanada",
+      "varianti": [
+        "Kazuto Sanada"
+      ]
+    },
+    {
+      "originale": "Jun Misugi",
+      "italiano": "Julian Ross",
+      "breve": "Ross",
+      "varianti": []
+    },
+    {
+      "originale": "Hikaru Matsuyama",
+      "italiano": "Philip Callaghan",
+      "breve": "Callaghan",
+      "varianti": []
+    },
+    {
+      "originale": "Kazumasa Oda",
+      "italiano": "Oda",
+      "breve": "Oda",
+      "varianti": [
+        "Kazushige Oda"
+      ]
+    },
+    {
+      "originale": "Masanori Kato",
+      "italiano": "Kato",
+      "breve": "Kato",
+      "varianti": []
+    },
+    {
+      "originale": "Masao Tachibana",
+      "italiano": "James Derrick",
+      "breve": "James",
+      "varianti": []
+    },
+    {
+      "originale": "Kazuo Tachibana",
+      "italiano": "Jason Derrick",
+      "breve": "Jason",
+      "varianti": []
+    },
+    {
+      "originale": "Yuichiro Daimaru",
+      "italiano": "Daimaru",
+      "breve": "Daimaru",
+      "varianti": [
+        "Yugoro Daimaru"
+      ]
+    },
+    {
+      "originale": "Shun Nitta",
+      "italiano": "Patrick Everett",
+      "breve": "Everett",
+      "varianti": []
+    },
+    {
+      "originale": "Taichi Nakanishi",
+      "italiano": "Theodore Sellers",
+      "breve": "Sellers",
+      "varianti": []
+    },
+    {
+      "originale": "Makoto Soda",
+      "italiano": "Ralph Peterson",
+      "breve": "Peterson",
+      "varianti": []
+    },
+    {
+      "originale": "Hiroshi Jito",
+      "italiano": "Clifford Yuma",
+      "breve": "Yuma",
+      "varianti": []
+    },
+    {
+      "originale": "Mitsuru Sano",
+      "italiano": "Sandy Winters",
+      "breve": "Winters",
+      "varianti": []
+    }
+  ],
+  "squadre": [
+    {
+      "originale": "Nankatsu",
+      "italiano": "New Team",
+      "varianti": [
+        "Nankatsu SC",
+        "Nankatsu MS",
+        "Scuola media Nankatsu"
+      ]
+    },
+    {
+      "originale": "Shutetsu",
+      "italiano": "Saint Francis",
+      "varianti": [
+        "Shutetsu FC"
+      ]
+    },
+    {
+      "originale": "Meiwa",
+      "italiano": "Muppet",
+      "varianti": [
+        "Meiwa FC"
+      ]
+    },
+    {
+      "originale": "Toho",
+      "italiano": "Toho Academy",
+      "varianti": [
+        "Accademia Toho",
+        "Toho Gakuen",
+        "Toho Academy"
+      ]
+    },
+    {
+      "originale": "Musashi",
+      "italiano": "Mambo",
+      "varianti": [
+        "Musashi FC",
+        "Scuola media Musashi"
+      ]
+    },
+    {
+      "originale": "Furano",
+      "italiano": "Flynet",
+      "varianti": [
+        "Furano FC",
+        "Scuola media Furano"
+      ]
+    },
+    {
+      "originale": "Hanawa",
+      "italiano": "Hot Dog",
+      "varianti": [
+        "Hanawa SS",
+        "Scuola media Hanawa"
+      ]
+    },
+    {
+      "originale": "Naniwa",
+      "italiano": "Norfolk",
+      "varianti": [
+        "Naniwa FC"
+      ]
+    },
+    {
+      "originale": "Azumaichi",
+      "italiano": "Artic",
+      "varianti": [
+        "Azumaichi MS",
+        "Azuma Dai-ichi",
+        "Scuola media Azumaichi"
+      ]
+    }
+  ],
+  "non_trovati": [
+    "Ichiki"
+  ],
+  "nome_confermato": "Jill Taylor",
+  "allenatori_e_staff": [
+    {
+      "originale": "Roberto Hongo",
+      "italiano": "Roberto Sedinho",
+      "breve": "Sedinho",
+      "varianti": []
+    },
+    {
+      "originale": "Tatsuo Mikami",
+      "italiano": "Freddy Marshall",
+      "breve": "Marshall",
+      "varianti": []
+    },
+    {
+      "originale": "Kozo Kira",
+      "italiano": "Jeff Turner",
+      "breve": "Turner",
+      "varianti": []
+    },
+    {
+      "originale": "Makoto Kitazume",
+      "italiano": "Ray Thompson",
+      "breve": "Thompson",
+      "varianti": []
+    },
+    {
+      "originale": "Takeshi Furuoya",
+      "italiano": "Jonathan Gunnell",
+      "breve": "Gunnell",
+      "varianti": []
+    },
+    {
+      "originale": "Munemasa Katagiri",
+      "italiano": "Kirk Parson",
+      "breve": "Parson",
+      "varianti": []
+    },
+    {
+      "originale": "Tadashi Shiroyama",
+      "italiano": "Peter Colby",
+      "breve": "Colby",
+      "varianti": []
+    }
+  ]
+}

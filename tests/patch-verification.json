@@ -1,0 +1,20 @@
+{
+  "verifiedEntries": 808210,
+  "rosterChecks": 58,
+  "playerMappings": 31,
+  "coachMappings": 7,
+  "teamMappings": 9,
+  "italianStringsChanged": 10817,
+  "sharedRomanLabelsChanged": 39,
+  "checks": [
+    "bounds",
+    "UTF-8",
+    "terminators",
+    "unchanged-language records",
+    "metadata preservation",
+    "formatting tags",
+    "original pool preservation",
+    "roster names",
+    "idempotence"
+  ]
+}

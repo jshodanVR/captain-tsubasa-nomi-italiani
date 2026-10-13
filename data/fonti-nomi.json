@@ -1,0 +1,15 @@
+{
+  "criterio": "Nomi con le versioni del cartone animato in Italia; mantenuta la lista iniziale e la scelta esplicita di Jill Taylor per Koji Nishio.",
+  "allenatori_e_staff": [
+    {"url": "https://www.antoniogenna.net/doppiaggio/anim/hollyebenji.htm", "uso": "Nomi italiani di Roberto Sedinho, Freddy Marshall, Jeff Turner e Kirk Parson nelle serie classiche."},
+    {"url": "https://it.wikipedia.org/wiki/Holly_e_Benji_-_Due_fuoriclasse", "uso": "Jonathan Gunnell e Ray Thompson nel cast italiano."},
+    {"url": "https://captaintsubasa.fandom.com/wiki/Takeshi_Furuoya", "uso": "Corrispondenza Takeshi Furuoya / Jonathan Gunnell."},
+    {"url": "https://captaintsubasastats.robla.es/staff/makoto-kitazume", "uso": "Corrispondenza Makoto Kitazume / Ray Thompson."},
+    {"url": "https://it.wikipedia.org/wiki/Personaggi_di_Capitan_Tsubasa", "uso": "Verifica delle identità degli allenatori e dello staff."}
+  ],
+  "formato_e_avvio": [
+    {"url": "https://www.zenhax.com/viewtopic.php@t=16678.html", "uso": "Riferimento al formato TTB0, successivamente verificato sul file locale."},
+    {"url": "https://joonie86.github.io/generic.html", "uso": "Necessità di un avvio offline senza anti-cheat per le traduzioni."},
+    {"url": "https://steamcommunity.com/app/1163550/discussions/0/3270185687338205158/?ctp=3", "uso": "Procedura reversibile con una copia dell'eseguibile installato."}
+  ]
+}

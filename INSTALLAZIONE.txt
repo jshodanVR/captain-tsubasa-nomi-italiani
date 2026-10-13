@@ -1,0 +1,47 @@
+HOLLY E BENJI — NOMI CON LE VERSIONI DEL CARTONE ANIMATO IN ITALIA
+Versione 1.3 — Captain Tsubasa: Rise of New Champions, Steam per Windows
+
+INSTALLAZIONE
+
+1. Installa il gioco da Steam e chiudilo.
+2. Apri Holly-e-Benji-Nomi-Italia-Installer-v1.3.exe.
+3. Controlla la cartella trovata. Se necessario, selezionala con Sfoglia.
+4. Conferma l'uso offline e premi Installa per l'offline.
+   Autorizza la richiesta amministratore di Windows, se compare.
+5. Metti Steam in modalita offline e avvia il gioco in italiano.
+
+L'installatore e un file unico. Non servono Python, script o file
+originali copiati da un altro PC. Verifica automaticamente la versione
+compatibile del gioco prima di applicare la patch.
+
+RIPRISTINO
+
+Chiudi il gioco, riapri l'installatore e premi Ripristina originali.
+Vengono ripristinati sia i testi sia l'avvio Easy Anti-Cheat originale.
+Ripristina prima di tornare all'uso online standard.
+
+Gli originali vengono conservati sul PC di destinazione, nella cartella:
+GameData\Holly-e-Benji-Nomi-Italia-Backup
+Conserva questa cartella per il ripristino.
+
+AGGIORNAMENTO DA UNA VERSIONE PRECEDENTE
+
+La versione 1.3 riconosce i testi delle versioni 1.1 e 1.2. Cerca le copie
+originali nelle cartelle di backup del gioco e accanto all'installatore.
+Se non le trova, usa prima il ripristino del vecchio pacchetto.
+
+CONTENUTO
+
+31 corrispondenze di giocatori, 9 nomi di squadra e 7 allenatori/staff.
+Roberto Hongo diventa Roberto Sedinho; sono inclusi Freddy Marshall,
+Jeff Turner, Ray Thompson, Jonathan Gunnell, Kirk Parson e Peter Colby.
+Koji Nishio mantiene Jill Taylor, come richiesto.
+
+La modifica riguarda i nomi testuali. Audio, filmati e scritte disegnate
+nelle immagini mantengono il contenuto originale.
+
+COMPATIBILITA
+
+Build Steam verificata: 10135064. Uso esclusivamente offline.
+L'installatore rifiuta versioni o modifiche non riconosciute.
+Non modifica i salvataggi, i parametri dei giocatori o le regole di gioco.

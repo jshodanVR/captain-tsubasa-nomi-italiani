@@ -1,0 +1,37 @@
+{
+  "version": "1.3",
+  "game": "Captain Tsubasa: Rise of New Champions",
+  "steamAppId": 1163550,
+  "steamBuildId": "10135064",
+  "date": "2026-10-14",
+  "relativePath": "string/WW/text.ttb",
+  "description": "nomi con le versioni del cartone animato in Italia",
+  "originalSize": 52480008,
+  "patchedSize": 52987764,
+  "originalSHA256": "a3c888f7c6bf4c567878af6083fafee2b431bca46107289aeec125f9b75327d9",
+  "patchedSHA256": "61bb9b2724128090c0ce8d08414f1c60ab1829721eb9fd0fa9bd491aebc8a2e6",
+  "appendSHA256": "444872c0ddcf89b2e30c5ce95e779bc1fee4751ab96169a0df0e7eb88162a8fc",
+  "tablePatchSHA256": "93c94fe4abb193447aefb10fef36db5e5d91036f7a9d2a623e2a7d26dc934521",
+  "patchCount": 10856,
+  "italianStringsChanged": 10817,
+  "sharedRomanLabelsChanged": 39,
+  "playerMappings": 31,
+  "coachMappings": 7,
+  "teamMappings": 9,
+  "verifiedEntries": 808210,
+  "nishio": "Jill Taylor",
+  "notFound": [
+    "Hiromichi Ichiki / Ichiki"
+  ],
+  "preservedTeams": [
+    "Meiwa Higashi",
+    "Otomo",
+    "Hirado"
+  ],
+  "requiresOffline": true,
+  "originalLauncherSHA256": "a513262406467634cbfc836822156bc2427182bb0a5edc1b04b887bdd88fe6ee",
+  "mainExecutableSHA256": "fc29f752c4688cc91594d8b32a389463281a8f8f6f17ecc7977cdfa64a7397c2",
+  "previousPatchSHA256": [
+    "88afae16d8c5e07bb1fd4048576b2e4dbb14e3691c67f1e2343325390dbb4d34"
+  ]
+}
